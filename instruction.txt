@@ -1,0 +1,3 @@
+use webpack 4.17.2
+follow versions
+check entry point,extensions

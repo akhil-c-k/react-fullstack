@@ -1,0 +1,15 @@
+
+// json file babel check how it should run
+{
+    "presets": [
+       ["@babel/preset-env",{
+          //configuration
+          "targets":{
+              "node":"current"
+              //what kind of es6 transplied equal to current
+          } 
+       }] ,
+        //react combination
+        "@babel/preset-react"
+    ]
+}
